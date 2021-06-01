@@ -1,0 +1,47 @@
+
+JavaScript:
+
+    - A loosely-typed client side scripting language.
+    - It executes in the user's browser and helps in taking action.
+    - It interacts with HTML elements to make interactive web user interface.
+    - NodeJS provides runtime environment to JavaScript.
+
+Three Ways to implement JavaScript with HTML:
+
+    - Internal or Embedded JavaScript
+    - External JavaScript
+    - Inine JavaScript
+
+Data Types in JavaScript:
+
+    - Primitive Data Types (Value Types)
+        1. String
+        2. Number
+        3. Boolean
+        4. Null
+        5. Undefined
+
+    - Non-Primitive Data Types (Reference Types)
+        1. Object
+        2. Date
+        3. Array
+
+Functions:
+
+    - Helps in modular programming that is DRY (Don't Repeat Yourself).
+    - Helps in defining a block of code, give it a name and execute multiple times.
+
+Types of Function:
+
+    1. Simple Function
+    2. Function with Parameters
+    3. Function with Return Statement
+    4. Function Expression
+    5. Annonymous Function
+    6. Arrow Function
+
+
+
+
+
+    
